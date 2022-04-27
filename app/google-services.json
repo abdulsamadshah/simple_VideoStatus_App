@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1014572989609",
+    "project_id": "simple-videostatus-app",
+    "storage_bucket": "simple-videostatus-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014572989609:android:773ee6ec6717442008fdb8",
+        "android_client_info": {
+          "package_name": "com.example.simplevideostatusappexamplestatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014572989609-3eipqse4sqepg8uf0joov8mg8obh1hql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPTO-oavopohYbDJy0hEmNUJZCBxy2cSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014572989609-3eipqse4sqepg8uf0joov8mg8obh1hql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

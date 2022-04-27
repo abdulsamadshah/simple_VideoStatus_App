@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">simple VideoStatus App</string>
+    <string name="track_selection_title">Video Quality</string>
+</resources>

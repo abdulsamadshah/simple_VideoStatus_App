@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/MyJobProjectApp/simpleVideoStatusApp/app/src/main/res/drawable-v24/myviewslayout.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/MyJobProjectApp/simpleVideoStatusApp/app/src/main/res/drawable-v24/round_edtext.xml" value="0.1665" />
+        <entry key="..\:/Users/Admin/MyJobProjectApp/simpleVideoStatusApp/app/src/main/res/drawable-v24/textlayout.xml" value="0.1665" />
+        <entry key="..\:/Users/Admin/MyJobProjectApp/simpleVideoStatusApp/app/src/main/res/drawable/editshape.xml" value="0.1665" />
+        <entry key="..\:/Users/Admin/MyJobProjectApp/simpleVideoStatusApp/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1665" />
+        <entry key="..\:/Users/Admin/MyJobProjectApp/simpleVideoStatusApp/app/src/main/res/drawable/layoutshape.xml" value="0.1665" />
+        <entry key="..\:/Users/Admin/MyJobProjectApp/simpleVideoStatusApp/app/src/main/res/layout/activity_love.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/MyJobProjectApp/simpleVideoStatusApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/MyJobProjectApp/simpleVideoStatusApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/MyJobProjectApp/simpleVideoStatusApp/app/src/main/res/layout/activity_user_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/MyJobProjectApp/simpleVideoStatusApp/app/src/main/res/layout/activity_video_upload.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/MyJobProjectApp/simpleVideoStatusApp/app/src/main/res/layout/category_layout.xml" value="0.18" />
+        <entry key="..\:/Users/Admin/MyJobProjectApp/simpleVideoStatusApp/app/src/main/res/layout/dialog_layout.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/MyJobProjectApp/simpleVideoStatusApp/app/src/main/res/layout/login_dialog_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/MyJobProjectApp/simpleVideoStatusApp/app/src/main/res/layout/ustom_controls.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/MyJobProjectApp/simpleVideoStatusApp/app/src/main/res/layout/video_item.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/MyJobProjectApp/simpleVideoStatusApp/app/src/main/res/menu/Logout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/MyJobProjectApp/simpleVideoStatusApp/app/src/main/res/menu/hview.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/MyJobProjectApp/simpleVideoStatusApp/app/src/main/res/menu/language.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/MyJobProjectApp/simpleVideoStatusApp/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/MyJobProjectApp/simpleVideoStatusApp/app/src/main/res/menu/mymenu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/MyJobProjectApp/simpleVideoStatusApp/app/src/main/res/menu/notewrite.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/MyJobProjectApp/simpleVideoStatusApp/app/src/main/res/menu/searchmenu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/MyJobProjectApp/simpleVideoStatusApp/app/src/main/res/menu/share.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
